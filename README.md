@@ -1,5 +1,3 @@
-# TasklinePrivacyPolicy
-Taskline Privacy policy
 
 Taskline
 Privacy Policy of Taskline
