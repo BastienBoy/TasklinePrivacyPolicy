@@ -49,6 +49,7 @@ Taskline has NO links to other sites, neither ours nor third parties’.
 Our Service does not address anyone under the age of 18 ("Children").
 
 9. Changes To This Privacy Policy
+
 We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page.
 
 We will let you know via a prominent notice on our Service, prior to the change becoming effective and update the "effective date" at the top of this Privacy Policy.
