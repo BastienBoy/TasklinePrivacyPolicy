@@ -15,10 +15,10 @@ All data you input or are created in the process of application’s run store ei
 Use of Data
 
 Taskline uses the data you input or are created in the process of application’s run for these ONLY purposes:
-To save on your devices and in your iCloud 
-To synchronize at all your devices
-To synchronize with Apple application “Calendar”
-To display your current location on the map and used for nearby search results during application runs
+-  To save on your devices and in your iCloud 
+- To synchronize at all your devices
+- To synchronize with Apple application “Calendar”
+- To display your current location on the map and used for nearby search results during application runs
 
 Transfer Of Data
 
